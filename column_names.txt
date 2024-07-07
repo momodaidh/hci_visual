@@ -1,0 +1,108 @@
+Response_ID
+Timestamp
+Age:
+Gender:
+Education: What is the highest degree or level of school you have completed? If currently enrolled, highest degree received.
+1. Imagine you have several IoT devices at home, like a smart thermostat, a voice assistant, and smart lights.
+How aware are you of the privacy risks associated with these IoT devices?
+2. Your voice assistant records and stores all your voice commands for improving its service.
+How concerned are you about the privacy of the voice recordings stored by your voice assistant?  
+3. Imagine a scenario where your smart home camera can be accessed remotely by unauthorized users.  
+How concerned are you about the possibility of unauthorized access to your smart home cameras?  
+4. You find out that your fitness tracker shares your health data with third-party companies. 
+How important is it to you that your IoT devices have clear privacy policies about data sharing?   
+5. You notice that your smart TV is showing ads related to your recent conversations and search history.  
+How concerned are you about IoT devices collecting and using your personal information for targeted advertising?  
+6. Imagine you have a fitness tracker that requests access to your location to provide route tracking and personalized workout recommendations.  
+How concerned are you about granting location access to your fitness tracker?  
+7. You've read a news article about a case where a hacker accessed personal information through a smart home device.
+How concerned are you about the potential privacy risks posed by IoT devices in your home?
+8. You read a report indicating that many IoT devices lack strong security measures, making them vulnerable to hacking.  
+How much do you trust the security of your IoT devices?  
+9. You receive an alert with a link to an article explaining IoT privacy risks.
+How likely are you to click on and read the article?
+1. Imagine receiving an alert on your phone about a nearby IoT device that might compromise your privacy by tracking your location.
+How likely are you to take action (e.g., disabling location services) after receiving this alert?
+2a. The alert provides detailed information about the type of privacy risk, such as data theft or unauthorized access. 
+What types of privacy risks would prompt you to take immediate action? (Select all that apply)
+2b. The alert provides detailed information about the type of privacy risk, such as data theft or unauthorized access. 
+What types of privacy risks would prompt you to take immediate action? (Select all that apply)
+2c. The alert provides detailed information about the type of privacy risk, such as data theft or unauthorized access. 
+What types of privacy risks would prompt you to take immediate action? (Select all that apply)
+2d. The alert provides detailed information about the type of privacy risk, such as data theft or unauthorized access. 
+What types of privacy risks would prompt you to take immediate action? (Select all that apply)
+2e. The alert provides detailed information about the type of privacy risk, such as data theft or unauthorized access. 
+What types of privacy risks would prompt you to take immediate action? (Select all that apply)
+3. The alert includes clear and comprehensible information about the risk.
+How important is the clarity and comprehensibility of the alert information in your decision to take action?
+4. The frequency of alerts varies from real-time updates to weekly summaries.
+How often would you prefer to receive alerts about privacy risks?
+5. An alert informs you of a nearby device that could access your personal data, and it recommends disabling your Bluetooth.
+How likely are you to disable your Bluetooth after receiving this alert?
+6. After receiving an alert, you are prompted to read an article explaining the privacy risk in more detail.
+How likely are you to read additional information provided in the alert to better understand the risk?
+7.  The smartphone app provides options for customizing alert settings based on your privacy preferences. 
+How important is it to have customizable alert settings in the smartphone app?  
+8. The smartphone app allows you to report false or irrelevant alerts about nearby IoT devices.
+How likely are you to report false or irrelevant alerts to help improve the accuracy of the smartphone app?  
+1. You receive a high-risk alert with a red warning icon indicating a significant threat to your privacy.
+How likely are you to take action compared to receiving a low-risk alert with a blue warning icon or a middle-risk alert with a yellow warning icon?
+2. The high-risk alert suggests turning off Bluetooth to prevent unauthourized access.
+How likely are you to turn off Bluetooth after receiving a high-risk alert?
+3. You receive a low-risk alert with a recommendation to disable your location services.
+How likely are you to disable your location services after receiving a low-risk alert?
+4. You receive both high-risk and low-risk alerts regularly.
+How much do you trust the accuracy of high-risk alerts compared to low-risk alerts?
+5. You receive a high-risk alert.
+How quickly do you respond to high-risk alerts compared to low-risk alerts?
+6. You receive frequent high-risk and low-risk alerts.
+How does the frequency of high-risk alerts affect your likelihood to take action compared to low-risk alerts?
+7a. You receive a high-risk alert suggesting multiple actions (e.g. turn off Bluetooth, disable location services,  disconnect Wi-Fi).
+7b. You receive a high-risk alert suggesting multiple actions (e.g. turn off Bluetooth, disable location services,  disconnect Wi-Fi).
+7c. You receive a high-risk alert suggesting multiple actions (e.g. turn off Bluetooth, disable location services,  disconnect Wi-Fi).
+7d. You receive a high-risk alert suggesting multiple actions (e.g. turn off Bluetooth, disable location services,  disconnect Wi-Fi).
+7d. You receive a high-risk alert suggesting multiple actions (e.g. turn off Bluetooth, disable location services,  disconnect Wi-Fi)..1
+1. You receive a notification about a privacy risk via a pop-up window on your phone.
+How effective do you find pop-up notifications in prompting you to take action?
+2. Instead of a pop-up, you receive a notification via vibration.
+How effective do you find vibration notifications in prompting you to take action?
+3. Instead of a pop-up or vibration, you receive an audible alert.
+How effective do you find audible notifications in prompting you to take action?
+4. Before and after receiving alerts about nearby IoT devices, you are asked to rate your perception or awareness of privacy risk on a scale of 1 to 5.
+How has your perception or awareness of privacy risk changed after receiving alerts from these scenarios?
+5. You have received several alerts about IoT devices over a month.
+How has your general behaviour regarding IoT devices changed over this period?
+6. You discuss the privacy risks of IoT devices with friends and family.
+How likely are you to share information or alerts about IoT privacy risks with others?
+7. Consider a situation where you receive an alert while in a public place.
+How likely are you to take immediate action (e.g., disable Bluetooth) when alerted in a public setting?
+8. You receive multiple alerts in a short period.
+How do you feel about the frequency of alerts regarding privacy risks?
+9. Imagine an alert with a detailed description vs. one with a brief warning.
+How does the amount of information in the alert affect your likelihood to take action?
+10. Alerts are accompanied by suggestions for mitigating privacy risks.
+How likely are you to follow the suggested actions provided in the alerts?
+11a. You are informed about privacy risks through multiple channels
+11b. You are informed about privacy risks through multiple channels
+11c. You are informed about privacy risks through multiple channels
+11d. You are informed about privacy risks through multiple channels
+12. You receive a high-risk alert while using a public WiFi network.
+How likely are you to disconnect from the public WiFi immediately after receiving this alert?
+13. You receive an alert informing you of a low-risk IoT device nearby.
+How likely are you to ignore a low-risk alert compared to a high-risk one?
+14. You receive an alert while traveling in a foreign country.
+How likely are you to take action on privacy alerts while abroad compared to when at home?
+15. You receive alerts that include recommendations for IoT devices with better privacy protections.
+How likely are you to consider switching to recommended IoT devices with better privacy protections?
+1. An alert includes a visual representation of the nearby IoT device.
+How helpful do you find visual representations in understanding and responding to privacy risks?
+2. You have the option to customise the frequency and type of alerts you receive.
+How important is the ability to customise alert settings to you?
+3. An alert allows you to report any issues or inaccuracies.
+How important is the option to report issues or inaccuracies in the alerts?
+4. You receive a follow-up alert confirming that an action you took (e.g., disabling Bluetooth) mitigated the risk.
+How likely are you to feel reassured by follow-up alerts confirming the effectiveness of your actions?
+5. The alerts are rated by other users for their helpfulness.
+How likely are you to consider user ratings when deciding to act on an alert?
+6. The alert system uses machine learning to provide more personalised risk assessments.
+How comfortable are you with the use of machine learning to personalise your privacy risk alerts?
